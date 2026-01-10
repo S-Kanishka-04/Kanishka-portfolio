@@ -34,18 +34,8 @@ https://kanishka4.netlify.app/
 ## 🖼️ Screenshots
 
 ### 🔹 Home / Banner Section
-![Home Page](./images/screenshot-home.png)
-
-### 🔹 About Me Section
-![About Section](./images/screenshot-about.png)
-
-### 🔹 Skills Section
-![Skills Section](./images/screenshot-skills.png)
-
-### 🔹 Contact Section
-![Contact Section](./images/screenshot-contact.png)
-
-_(Add screenshots inside the `images` folder with the above names)_
+![Home Page](<img width="1875" height="897" alt="image" src="https://github.com/user-attachments/assets/e5e3b3d9-f0ad-432e-88d2-fb07a9ceec6d" />
+)
 
 ---
 
