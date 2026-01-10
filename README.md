@@ -1,4 +1,4 @@
-# 🌐 Kanishka Portfolio Website
+# 🌐 Personal Portfolio Website
 
 This is a **personal portfolio website** designed and developed by **Kanishka Shankar** to showcase her profile, skills, and contact details in a clean and professional way. The website is fully responsive and built using modern front-end technologies.
 
@@ -34,8 +34,7 @@ https://kanishka4.netlify.app/
 ## 🖼️ Screenshots
 
 ### 🔹 Home / Banner Section
-![Home Page](<img width="1875" height="897" alt="image" src="https://github.com/user-attachments/assets/e5e3b3d9-f0ad-432e-88d2-fb07a9ceec6d" />
-)
+![Home Page](https://github.com/user-attachments/assets/e5e3b3d9-f0ad-432e-88d2-fb07a9ceec6d)
 
 ---
 
