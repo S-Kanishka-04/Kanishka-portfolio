@@ -9,8 +9,6 @@ This is a **personal portfolio website** designed and developed by **Kanishka Sh
 👉 **View Portfolio Website:**  
 https://kanishka4.netlify.app/
 
-_(Replace `your-username` with your actual GitHub username after deploying)_
-
 ---
 
 ## ✨ Features
@@ -53,6 +51,15 @@ _(Add screenshots inside the `images` folder with the above names)_
 
 ## 📂 Project Structure
 
+```
+Kanishka-Portfolio/
+│
+├── index.html
+├── css/
+│ └── styles.css
+├── images/
+└── README.md
+```
 ---
 
 ## 🚀 How to Run the Project
@@ -67,7 +74,7 @@ _(Add screenshots inside the `images` folder with the above names)_
 ## 👩‍💻 About Me
 
 I am a **Pre-Final Year Computer Science and Engineering student** at Panimalar Engineering College, Chennai.  
-I am passionate about **Web Development, Java, UI/UX Design, IoT & Blockchain research, Content Creation, and Public Speaking**.
+I am passionate about **Web Development, Full Stack Development, Java, IoT & Blockchain research, Content Creation, and Public Speaking**.
 
 ---
 
